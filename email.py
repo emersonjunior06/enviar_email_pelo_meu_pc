@@ -10,7 +10,7 @@ escrever_email = (104,213)
 docente_email = (913,301)
 assunto_email = (754,359)
 enviar_email = (787,682)
-email_docente = 'luciene.etec@gmail.com'
+email_docente = 'email.destinatario'
 termo_de_busca = 'Login Gmail'
 
 
